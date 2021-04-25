@@ -1,7 +1,7 @@
 let data = {
     "Home": {
         "title": "Hello,I am Amrutha Dinesh",
-        "image": "<img src='https://drive.google.com/file/d/1rf-0tLEnpb-XAITUu0IuYlrbpX7Wh3lJ/view?usp=sharing'>",
+        "image": "<img src='my dp.jpg'>",
         "description": "I am a second year B.Tech student in the Division of Computer Science at School of Engineering CUSAT.  <br><br>I enjoy attending tech events and testing the limits of technology. I'm working towards bridging the gender gap in technology",
         "address": "Valiyaparambil House <br>Sree Padmanabha<br>Poonithura P.O Ernakulam<br>Kerala IN 682038",
         "social": {
