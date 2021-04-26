@@ -39,13 +39,8 @@ let data = {
                     "subtitle": "Its a simple app to manage your monthly expenses",
                     "date": "2021",
                     "description": "Created a discord bot for managing finances and provides features such as monthly pdf exports and graphical UI for category-wise representation..<br><br><b>Status : </b>Work in Progress"
-                },
-                "semantic": {
-                    "title": "Semantic Lab",
-                    
-                    "date": "2021",
-                    "description": "A semantic system that can control the IoT sensors, autoregister and provide internet based command line interface. The system is natively conversational and can be integrated with popular voice agents like Google Home, Amazon Alexa etc.<br><br>"
-                },
+                }
+                
                
             },
             "Leadership/Volunteering": {
