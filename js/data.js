@@ -63,7 +63,7 @@ let data = {
                     "description": "Designed the official website and brochure along with other members of the team,interacted with sponsors to have a wider reach for the event."
                 },
                 "Pehia Foundation": {
-                    "title": "Designer and mentor",
+                    "title": "Designer and media manager",
                     "subtitle": "Pehia Summit 2021",
                     "date": "2021",
                     "description": "Coordinated and help plan the entire event flow including outreach, technical management, media interaction,participant engaging , selecting themes and activities."
