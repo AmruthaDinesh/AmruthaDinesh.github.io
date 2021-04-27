@@ -20,7 +20,7 @@ let data = {
                     "title": "Cochin University of Science and Technology",
                     "subtitle": "Bachelor of Technology in Computer Science",
                     "date": "July 2019 - May 2023",
-                    "description": "<b>CGPA - 9.16 /10</b> <br>Core Courses:- Operating System, Algorithms, Data Structures, Object Oriented Programming Language, Computer Architecture and Organisation, Principles of Programming Languages, Data Mining, Graphics, Automata Languages."
+                    "description": "<b>CGPA - 9.65 /10</b> <br>Core Courses:- Operating System, Algorithms, Data Structures, Object Oriented Programming Language, Computer Architecture and Organisation, Principles of Programming Languages, Data Mining, Graphics, Automata Languages."
                 }
             },
             
@@ -28,8 +28,8 @@ let data = {
                 "Trebuchet": {
                     "title": "Trebuchet systems",
                     "subtitle": "Research Intern",
-                    "date": "November 2020 - January 2021",
-                    "description": "The work involved collaborating with senior research team to formulate protocol(DLDAR) to perform dynamic load division between client and server in real-time web based AR."
+                    "date": "November 2020 - February 2021",
+                    "description": "The work involved collaborating with senior research team to formulate protocol(DLDAR) to perform dynamic load division between client and server in real-time web based AR and extended protocol design for multi-user support in web based AR.Created the developer documentation and examples for DLDAR protocol"
                 },
                 
             },
@@ -39,6 +39,12 @@ let data = {
                     "subtitle": "Its a simple app to manage your monthly expenses",
                     "date": "2021",
                     "description": "Created a discord bot for managing finances and provides features such as monthly pdf exports and graphical UI for category-wise representation..<br><br><b>Status : </b>Work in Progress"
+                },
+                 "AR Furniture": {
+                    "title": "AR Furniture",
+                    "subtitle": "Its an AR based mobile application used to place virtual furniture",
+                    "date": "2021",
+                    "description": "The application allows to test furniture virtually"
                 }
                 
                
@@ -48,13 +54,13 @@ let data = {
                     "title": "Robotics Club CUSAT",
                     "subtitle": "Computer vision Engineer",
                     "date": "2020-present",
-                    "description": "worked on detection and understanding of surroundings by machines."
+                    "description": "Worked as Computer Vision Engineer in developing detection and world tracking machine learning algorithms and planned weekly articles related to Robotics in social media to keep the club active during the pandemic"
                 },
                 "TedX Kalamaserry": {
                     "title": "Web Designer",
                     "subtitle": "Designed the official website of TedX",
                     "date": "2021",
-                    "description": "Designed the website along with other members of the team,interacted with sponsors to organise the event."
+                    "description": "Designed the official website and brochure along with other members of the team,interacted with sponsors to have a wider reach for the event."
                 },
                 "Pehia Foundation": {
                     "title": "Designer and mentor",
@@ -66,7 +72,7 @@ let data = {
                     "title": "Guest Coordinator",
                     "subtitle": "ISBIS conference 2020",
                     "date": "2020",
-                    "description": "Made the smooth conduct of the event virtually "
+                    "description": "Guest coordinator and media manager for ISBIS 2020 conference "
                 },
                 
             },
