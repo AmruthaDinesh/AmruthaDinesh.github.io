@@ -38,7 +38,7 @@ let data = {
                     "title": "Money Manager",
                     "subtitle": "Its a simple app to manage your monthly expenses",
                     "date": "2021",
-                    "description": "Created a discord bot for managing finances and provides features such as monthly pdf exports and graphical UI for category-wise representation..<br><br><b>Status : </b>Work in Progress"
+                    "description": "Created a discord bot for managing finances and provides features such as monthly pdf exports and graphical UI for category-wise representation<br><br><b>Status : </b>Work in Progress"
                 },
                  "AR Furniture": {
                     "title": "AR Furniture",
