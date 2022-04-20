@@ -1,6 +1,6 @@
 let data = {
     "Home": {
-        "title": "Hello,I am Amrutha Dinesh",
+        "title": "Hai,I am Amrutha Dinesh",
         "image": "<img src='my dp.jpg'>",
         "description": "I am a second year B.Tech student in the Division of Computer Science at School of Engineering CUSAT.  <br><br>I enjoy attending tech events and testing the limits of technology. I'm working towards bridging the gender gap in technology",
         "address": "Valiyaparambil House <br>Sree Padmanabha<br>Poonithura P.O Ernakulam<br>Kerala IN 682038",
@@ -34,18 +34,13 @@ let data = {
                 
             },
             "Projects": {
-                "Money Manager": {
-                    "title": "Money Manager",
-                    "subtitle": "Its a simple app to manage your monthly expenses",
-                    "date": "2021",
-                    "description": "Created a discord bot for managing finances and provides features such as monthly pdf exports and graphical UI for category-wise representation<br><br><b>Status : </b>Work in Progress"
+                "Text Summarisation using Deep Learning": {
+                    "title": "Text Summarisation using Deep Learning",
+                    "subtitle": "Extractive single document summarisation was implemented using Deep Learning",
+                    "date": "2022",
+                    "description": "A novel method to perform extractive text summarisation of English documents using Self organizing maps(SOMs) was implemented. It is an unsupervised machine leaning model so it can be extended to give the summary for all kinds of text documents. <br><br><b>Status : </b> Completed"
                 },
-                 "AR Furniture": {
-                    "title": "AR Furniture",
-                    "subtitle": "Its an AR based mobile application used to place virtual furniture",
-                    "date": "2021",
-                    "description": "The application allows to test furniture virtually"
-                }
+                 
                 
                
             },
