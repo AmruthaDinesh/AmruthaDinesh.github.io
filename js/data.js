@@ -2,7 +2,7 @@ let data = {
     "Home": {
         "title": "Hai,I am Amrutha Dinesh",
         "image": "<img src='my dp.jpg'>",
-        "description": "I am a second year B.Tech student in the Division of Computer Science at School of Engineering CUSAT.  <br><br>I enjoy attending tech events and testing the limits of technology. I'm working towards bridging the gender gap in technology",
+        "description": "I am a third year B.Tech student in the Division of Computer Science at School of Engineering CUSAT.  <br><br>I'm curious about cognitive science and ML.<br><br> A technophile who loves to talk. Connect with me.",
         "address": "Valiyaparambil House <br>Sree Padmanabha<br>Poonithura P.O Ernakulam<br>Kerala IN 682038",
         "social": {
             "Email : ": "<a href='mailto:vpamrutha197@gmail.com.com?Subject=Hello' target='_top'>vpamrutha197@gmail.com</a>",
@@ -20,7 +20,7 @@ let data = {
                     "title": "Cochin University of Science and Technology",
                     "subtitle": "Bachelor of Technology in Computer Science",
                     "date": "July 2019 - May 2023",
-                    "description": "<b>CGPA - 9.65 /10</b> <br>Core Courses:- Operating System, Algorithms, Data Structures, Object Oriented Programming Language, Computer Architecture and Organisation, Principles of Programming Languages, Data Mining, Graphics, Automata Languages."
+                    "description": "<b>CGPA - 9.02 /10</b> <br>Core Courses:- Operating System, Algorithms, Data Structures, Object Oriented Programming Language, Computer Architecture and Organisation, Principles of Programming Languages, Data Mining, Graphics, Automata Languages."
                 }
             },
             
