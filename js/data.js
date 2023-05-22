@@ -45,12 +45,7 @@ let data = {
                
             },
             "Leadership/Volunteering": {
-                "Robotics": {
-                    "title": "Robotics Club CUSAT",
-                    "subtitle": "Computer vision Engineer",
-                    "date": "2020-present",
-                    "description": "Worked as Computer Vision Engineer in developing detection and world tracking machine learning algorithms and planned weekly articles related to Robotics in social media to keep the club active during the pandemic"
-                },
+              
                 "TedX Kalamaserry": {
                     "title": "Web Designer",
                     "subtitle": "Designed the official website of TedX",
